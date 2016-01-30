@@ -1,0 +1,38 @@
+6
+
+10	32	x	x	x	x	x |	x	1	x	x	x	x	26	16	x	19	x	x	x	x	x	x	11	x	x	7	x	18	15	33	3	x	x	x	x
+12	x	x	x	5	26	x |	x	x	x	4	x	15	x	35	6	7	x	19	18	x	x	33	x	29	x	x	27	24	x	22	21	x	2	9	x
+x	8	x	x	21	x	x |	3	25	x	x	x	12	x	32	29	17	x	30	x	x	x	24	15	x	x	19	11	x	9	31	x	23	x	4	36
+18	34	35	30	1	x	9 | x	x	x	x	x	2	28	x	x	x	36	x	20	x	22	32	14	10	26	25	x	12	17	x	x	7	8	15	x
+x	23	x	24	x	x	x	7	x	15	x	22	x	x	1	11	x	x	x	x	x	x	26	35	x	x	33	13	x	x	x	18	27	x	x	17
+9	x	11	2	x	13	14	32	x	24	19	8	10	3	5	x	x	x	28	x	x	x	x	x	1	21	6	16	22	35	x	x	x	x	x	29
+x	x	x	x	30	x	22	x	14	x	x	x	36	x	x	15	x	32	x	8	16	x	x	10	28	x	x	x	x	31	24	1	20	x	13	35
+28	4	10	x	x	35	x	29	x	12	x	1	x	25	30	34	x	18	21	15	20	14	13	x	11	24	x	x	x	7	x	16	x	x	x	x
+15	25	x	22	x	1	x	31	x	36	34	x	20	x	13	x	24	28	x	x	x	33	x	18	x	x	x	14	6	21	x	11	x	x	30	8
+x	x	33	20	x	8	x	28	23	19	13	17	x	4	12	2	26	9	x	x	x	29	x	34	22	x	x	x	10	30	x	x	6	36	x	21
+x	26	x	34	x	x	5	15	33	20	9	x	x	10	x	x	29	x	x	x	25	30	x	x	16	12	1	4	x	x	x	28	x	31	32	14
+14	x	2	19	31	12	x	x	x	x	18	21	x	x	33	16	22	11	4	x	17	28	35	36	x	x	x	x	27	25	x	9	x	x	x	x
+x	35	x	28	x	x	20	36	24	31	x	15	x	22	x	21	12	2	x	x	8	16	x	4	x	5	32	33	x	x	x	26	x	34	19	6
+x	17	3	x	12	20	6	14	x	x	x	23	x	15	x	x	x	4	x	11	28	x	x	32	26	10	35	x	x	22	x	x	x	9	36	24
+x	21	26	x	x	x	2	x	13	25	33	x	x	24	6	19	14	5	x	x	x	7	29	20	x	8	x	12	x	4	x	x	11	17	28	x
+x	18	9	x	x	x	x	x	26	3	x	x	x	x	34	x	20	x	1	22	6	27	21	x	24	30	15	17	11	19	5	12	x	14	23	x
+25	x	22	15	14	36	x	8	x	x	x	x	33	x	17	10	x	x	x	31	18	26	x	x	34	27	x	7	29	x	x	x	x	20	2	x
+4	27	16	8	x	10	29	x	x	x	x	x	7	9	x	x	x	x	x	35	36	x	x	x	x	23	14	25	x	1	x	31	13	x	x	x
+x	x	x	27	19	x	3	x	36	16	26	x	x	x	x	18	11	x	x	x	x	x	22	28	x	x	x	x	x	24	35	x	21	7	29	34
+x	29	32	x	x	x	x	12	5	x	7	19	x	x	26	33	9	x	x	x	30	15	x	6	x	x	x	x	13	x	3	14	28	1	x	18
+x	1	12	x	15	3	23	35	17	34	29	31	x	5	14	25	30	7	x	33	x	13	x	x	x	x	20	32	x	x	x	x	x	27	22	x
+x	14	28	7	x	x	21	x	27	x	30	x	19	2	10	x	x	x	32	9	35	23	34	x	x	33	22	36	x	26	x	x	x	5	16	x
+16	31	5	x	x	x	8	x	x	14	28	24	27	x	x	20	21	x	25	x	x	x	17	x	35	x	x	x	23	18	13	32	x	33	10	x
+36	20	25	x	13	x	x	x	9	1	22	x	16	x	28	17	x	x	27	3	2	x	31	x	30	x	34	29	5	14	x	x	4	x	12	x
+x	x	x	x	26	x	17	18	x	x	x	x	32	12	19	23	x	27	20	28	34	6	x	x	7	22	x	x	x	x	8	30	25	13	x	1
+22	13	30	x	28	x	x	x	4	5	20	29	x	x	8	9	x	x	x	2	x	x	27	x	x	18	11	10	32	3	x	x	31	x	35	x
+20	x	15	1	x	x	28	27	x	x	x	36	5	x	22	x	x	x	7	12	13	9	25	x	21	31	26	24	14	x	19	x	3	11	x	x
+7	6	x	x	32	x	33	24	22	x	x	x	29	x	15	x	x	x	11	23	x	18	x	17	x	13	27	x	30	x	34	x	14	x	20	9
+x	x	x	x	8	x	30	x	x	x	3	10	x	1	20	26	18	13	29	x	14	35	15	x	19	x	23	x	2	x	16	x	x	32	24	4
+23	33	x	12	4	17	31	x	x	x	x	16	11	x	x	7	25	x	22	x	10	x	x	3	x	x	x	28	x	8	x	2	x	x	x	x
+24	x	x	x	x	x	1	2	15	28	23	13	x	x	x	x	x	19	x	x	x	11	3	30	27	9	18	x	35	12	36	x	34	10	x	26
+5	x	x	4	7	x	x	x	16	27	x	x	21	33	x	x	x	x	x	x	19	36	x	x	23	x	24	x	26	x	x	x	22	x	25	x
+x	36	13	11	x	x	34	19	x	4	8	26	35	17	9	x	10	x	2	x	x	x	6	27	x	x	x	x	x	32	x	5	29	3	21	31
+26	12	x	18	x	27	11	x	3	33	x	x	25	29	x	x	x	30	x	10	32	8	x	9	x	x	x	20	7	x	x	24	x	x	1	x
+x	3	20	x	2	30	x	6	31	x	x	25	x	27	x	x	28	12	x	21	22	1	x	5	x	4	x	x	x	x	14	7	x	x	x	16
+x	x	x	x	10	28	7	21	x	9	x	x	24	x	x	x	x	x	x	26	x	25	16	x	x	x	x	1	x	x	x	x	x	x	27	32
